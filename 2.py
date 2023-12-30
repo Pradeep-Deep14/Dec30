@@ -1,0 +1,1 @@
+print(max(min(False,False),1,True))
